@@ -1,0 +1,11 @@
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('SMJ', '590020241127', '2024-11-27 07:37:47.758', 1);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('KKKK', '218920241127', '2024-11-27 07:40:59.456', 2);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('smj', '192920241127', '2024-11-27 08:15:40.755', 3);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('', '825020241128', '2024-11-28 07:51:32.515', 4);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('', '701520241128', '2024-11-28 10:37:41.704', 5);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('', '374720241129', '2024-11-29 08:11:59.619', 6);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('', '694120241130', '2024-11-30 07:18:03.836', 7);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('', '518120241211', '2024-12-11 13:33:35.286', 10);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('', '667120241211', '2024-12-11 13:36:40.886', 11);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('AVR ', '448120241230', '2024-12-30 08:55:05.507', 13);
+insert into `bills` (`bill_name`, `bill_number`, `created_at`, `id`) values ('', '814220250228', '2025-02-28 11:04:51.059', 14);
